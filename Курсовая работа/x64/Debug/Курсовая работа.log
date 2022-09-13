@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Visual studio\Курсовая работа\Курсовая работа\main.cpp(1,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Map.cpp
+D:\Visual studio\Курсовая работа\Курсовая работа\Map.h(2,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Player.cpp
+D:\Visual studio\Курсовая работа\Курсовая работа\Player.h(2,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Создание кода...
